@@ -3,5 +3,7 @@
 
 <div id="header" align="center"> <img src="https://i.postimg.cc/xT4gWcbB/lv-0-20240901073202-1-50.gif" width="200"/
 
-  view in desktop / laptop 
+> <div id="header" align="center"> <img src="https://i.postimg.cc/nzBCk7QQ/lv-0-20240901075405-40.gif" width="100"/
+ 
+> viewing this in desktop / laptop is much better
 ##
